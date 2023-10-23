@@ -78,11 +78,7 @@ Before you get started, make sure you have the following tools installed:
     ./vendor/bin/sail artisan test
 All test should pass as shown:
 
-
-![Screenshot from 2023-09-26 13-47-51](https://github.com/cgardesey/afa_call/assets/10109354/52cc20b3-7685-4ea3-8ed6-d1e578b34e19)
-
-
-
+![Screenshot from 2023-09-26 13-47-51](https://github.com/cgardesey/afa_call/assets/10109354/242f73bd-ffa8-40fd-9236-b5d4419884ae)
 
 
 ## Development Workflow
@@ -109,7 +105,8 @@ The jenkins pipeline consists of the following stages:
 
 Here is a screenshot showing the successful completion of all Jenkins stages:
 
-![image](https://github.com/cgardesey/afa_call/assets/10109354/3a438aee-fa41-4fb8-9ae7-405ab8177558)
+![image](https://github.com/cgardesey/afa_call/assets/10109354/ff2dd92d-26dc-4cde-a829-de4251284195)
+
 
 ## Deployment
 
